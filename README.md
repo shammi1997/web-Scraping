@@ -27,7 +27,6 @@ Required Python libraries: requests, beautifulsoup4, selenium, pandas
    pip install requests beautifulsoup4 selenium pandas
 Installation
 Clone the repo
-git clone https://github.com/Sunil-nith/Web_Scraping_Flipkart_Product_Data.git
 Navigate to the project directory.
 Install Required Python libraries.
 Run First web_scraping_1.py then Run web_scraping_2.py
